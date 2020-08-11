@@ -17,7 +17,7 @@ public class Deposite {
 		else
 		{
 			total=total-x;
-			System.out.println("Amount widthdrawn!!");
+			System.out.println("Amount widthdrawn!!!!");
 			this.prev= (-x);
 		}
 	}
